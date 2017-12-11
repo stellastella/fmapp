@@ -1,0 +1,104 @@
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+    background-color:#fff;
+    -webkit-font-smoothing: antialiased;
+    font: normal 14px Roboto,arial,sans-serif;
+}
+
+/*.container {*/
+/*padding: 25px;*/
+/*position: fixed;*/
+/*}*/
+
+.form-login {
+    background-color: #EDEDED;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    margin:auto;
+    width:100%;
+    box-shadow:0 1px 0 #cfcfcf;
+
+}
+.mssg {
+    background-color: #EDEDED;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    margin: auto;
+    text-align: center;
+    box-shadow:0 1px 0 #cfcfcf;
+    width:100%;
+    color: #e10a05;
+    font-weight: bold;
+}
+
+
+h4 {
+    /*border:0 solid #fff;*/
+    border-bottom-width:1px;
+    padding-bottom:10px;
+    /*text-align: center;*/
+}
+
+input.form-control {
+    border-radius: 10px;
+}
+
+input.form-control.btn {
+    color: white;
+    margin-right: 400px;
+    background-color: #14c523;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+/*.vendor_box{*/
+    /*/!*width: 800px;*!/*/
+    /*/!*margin: 0 auto;*!/*/
+    /*/!*height: auto;*!/*/
+    /*height:100%;*/
+    /*width:100%;*/
+    /*padding:2em;*/
+    /*/!*background: #fff;*!/*/
+    /*margin-bottom:0.5em;*/
+    /*position:relative;*/
+    /*/!*border-bottom: solid #cfcfcf 0.1em;*!/*/
+/*}*/
+/*.vendor_text{*/
+    /*width:80%;*/
+    /*height:100%;*/
+    /*color: #0c0c0c;*/
+    /*float: left;*/
+    /*/!*width: 600px;*!/*/
+    /*/!*background: #ffffff;*!/!*/
+    /*/!*height: 400px;*!/*/
+    /*/!*margin-left: 200px;*!/*/
+
+/*}*/
+
+/*vendor_picture{*/
+    /*/!*width: 400px;*!/*/
+    /*/!*height: 350px;*!/*/
+    /*/!*background: red;*!/*/
+    /*/!*float: left;*!/*/
+    /*/!*margin-right:50px;*!/*/
+    /*min-width:40%;*/
+    /*min-height:80%;*/
+    /*background:#8f8f8f;*/
+    /*float: left;*/
+    /*margin:0.8em;*/
+    /*border-radius: 0.2em;*/
+    /*border-bottom: solid #df7800 0.2em ;*/
+/*}*/
